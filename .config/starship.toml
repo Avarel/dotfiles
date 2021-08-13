@@ -2,7 +2,7 @@
 add_newline = true
 
 format = """
-[╭](white) \
+[┌](white) \
 $username\
 $hostname\
 $shlvl\
@@ -62,7 +62,7 @@ $battery\
 $time\
 $status\
 $shell\
-[╰──►](bold) """
+[└──](bold) """
 
 [aws]
 disabled = true
